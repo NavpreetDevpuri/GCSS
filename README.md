@@ -1,2 +1,2 @@
-# bss
-Better Style Sheets
+# GCSS
+Graphical Cascading Style Sheets
